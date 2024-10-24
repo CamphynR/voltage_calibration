@@ -4,3 +4,5 @@ figures
 pickles
 temperatures
 *.png
+*.err
+*.log
