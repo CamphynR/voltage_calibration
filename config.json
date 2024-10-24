@@ -1,0 +1,8 @@
+{
+    "bias_dir" : "/pnfs/iihe/rno-g/bias-scan",
+    "data_dir" : "/pnfs/iihe/rno-g/data/handcarry22",
+    "pickle_dir" : "/home/ruben/Documents/projects/RNO-G_calibration_V2/pickles",
+    "fig_dir" : "/home/ruben/Documents/projects/RNO-G_calibration_V2/figures",
+    "year" : 2022,
+    "window" : [-0.2, 0.2]
+}
