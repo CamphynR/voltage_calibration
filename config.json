@@ -1,0 +1,8 @@
+{
+    "bias_dir" : "/pnfs/iihe/rno-g/bias-scan",
+    "data_dir" : "/pnfs/iihe/rno-g/data/handcarry22",
+    "pickle_dir" : "/user/rcamphyn/voltage_calibration/pickles",
+    "fig_dir" : "/user/rcamphyn/voltage_calibration/figures",
+    "year" : 2022,
+    "window" : [-0.2, 0.2]
+}
