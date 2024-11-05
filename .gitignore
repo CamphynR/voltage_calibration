@@ -6,3 +6,5 @@ temperatures
 *.png
 *.err
 *.log
+*.out
+*.submit
